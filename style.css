@@ -1,96 +1,17 @@
  html,
  body {
   height: 100%;
+  background-color: pink;
  }
  
  h1 {
-  color: white;
+  color: green;
  }
  
  /*ul {*/
  /* padding-left: 0%;*/
  /*}*/
  
- footer{
-  font-size: 30px;
- }
- .full-w {
-  width: 100%;
- }
- 
- .full-h {
-  height: 100%;
- }
- 
- .vert-center {
-  display: table-cell;
-  vertical-align: middle;
- }
- 
- .transparent {
-  background: rgba(224,76,50,.8);
- }
- 
- .transparentH {
-  background: rgba(0, 0, 0, .3);
- }
- 
- .section {
-  padding: 70px;
- }
- 
- .pillz {
-  font-size: 150%;
- }
- 
- .navbar-default .navbar-brand,
- .navbar-default .navbar-nav>li>a {
-  color: white;
- }
- 
- .navbar-default .navbar-brand:focus,
- .navbar-default .navbar-brand:hover,
- .navbar-default .nav>li>a:focus,
- .navbar-default .nav>li>a:hover {
-  color: #E04C32;
- }
- /**/
- 
- #home {
-  background-image: url(http://freeaudiobookguide.com/wp-content/uploads/2015/06/jd-salinger-quote.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: table;
- }
- 
- #fs1 {
-  background-color: #FAEDDC;
-  display: table;
- }
- 
- #fs2 {
-  background-color: #FEF3E1;
-  display: table;
- }
- 
- #fs3 {
-  background-color: #FAEDDC;
-  display: table;
- }
- 
- #fs4 {
-  background-color: #FEF3E1;
-  display: table;
- }
- 
- #sectionD {
-  background-color: #FAEDDC;
- }
- 
- #section {
-  background-color: #FEF3E1;
- }
- /**/
  
  @media screen and (min-width: 0px) {
   h1 {
